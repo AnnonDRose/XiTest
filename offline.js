@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1659563005,
+	"version": 1659568172,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -74,6 +74,9 @@
 		"media/ded.m4a",
 		"media/shotsnd.m4a",
 		"media/hitsnd.m4a",
+		"media/ded.ogg",
+		"media/hitsnd.ogg",
+		"media/shotsnd.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
