@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1659561166,
+	"version": 1659562389,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -72,11 +72,8 @@
 		"images/gonbr-sheet0.png",
 		"images/gonhit2-sheet0.png",
 		"media/ded.m4a",
-		"media/ded.ogg",
 		"media/shotsnd.m4a",
-		"media/shotsnd.ogg",
 		"media/hitsnd.m4a",
-		"media/hitsnd.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
