@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1662915051,
+	"version": 1663002819,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -43,6 +43,7 @@
 		"images/exha-sheet1.png",
 		"images/aimer-sheet0.png",
 		"images/shot-sheet0.png",
+		"images/shot2-sheet0.png",
 		"images/ship-sheet0.png",
 		"images/ship-sheet1.png",
 		"images/ship-sheet2.png",
@@ -69,7 +70,7 @@
 		"images/glowball-sheet0.png",
 		"images/cursor-sheet0.png",
 		"images/score.png",
-		"images/ten.png",
+		"images/five.png",
 		"images/powerup-sheet0.png",
 		"images/powerup-sheet1.png",
 		"images/powerup-sheet2.png",
