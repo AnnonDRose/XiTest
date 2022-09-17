@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1663335081,
+	"version": 1663445405,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -125,7 +125,7 @@
 		"images/superparts.png",
 		"images/nospawn-sheet0.png",
 		"images/gonmvr-sheet0.png",
-		"images/lightr2-sheet0.png",
+		"images/lineywiney-sheet0.png",
 		"media/xititleedit.m4a",
 		"media/xititleedit.ogg",
 		"media/xititlealtedit.m4a",
