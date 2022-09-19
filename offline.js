@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1663509653,
+	"version": 1663600163,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -45,6 +45,9 @@
 		"images/ringboomfx-sheet0.png",
 		"images/ringboomfx-sheet1.png",
 		"images/ringboomfx-sheet2.png",
+		"images/dongle3-sheet0.png",
+		"images/dongle3b-sheet0.png",
+		"images/ringshot1-sheet0.png",
 		"images/shdl-sheet0.png",
 		"images/shdr-sheet0.png",
 		"images/exha-sheet0.png",
@@ -83,6 +86,7 @@
 		"images/powerup-sheet1.png",
 		"images/powerup-sheet2.png",
 		"images/plus.png",
+		"images/retc4-sheet0.png",
 		"images/gon-sheet0.png",
 		"images/gon-sheet1.png",
 		"images/midmrkl-sheet0.png",
@@ -110,6 +114,7 @@
 		"images/explhit-sheet1.png",
 		"images/explhit-sheet2.png",
 		"images/explhit2-sheet0.png",
+		"images/retc3b-sheet0.png",
 		"images/livexpl.png",
 		"images/explhit3-sheet0.png",
 		"images/explhit3-sheet1.png",
